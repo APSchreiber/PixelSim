@@ -1,0 +1,28 @@
+
+html, body {
+  text-align: center;
+}
+
+#world {
+  margin: 0 auto;
+  width: 1100px;
+  height: 100px;
+  border: 1 solid black;
+}
+
+#environ {
+  
+}
+
+#environ td{
+  width: 4px;
+  height: 4px;
+  margin: 0;
+  padding: 0;
+}
+
+.organism {
+  width: 10px;
+  height: 10px;
+  border: 1px solid black;
+}
